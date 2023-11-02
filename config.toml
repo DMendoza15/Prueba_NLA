@@ -2,7 +2,6 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Personal Digital Garden"
 theme = "digital-garden-hugo-theme"
-
 googleAnalytics = "UA-PROPERTY_ID"
 
 [Params]
